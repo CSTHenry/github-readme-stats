@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/CSTHenry/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">¡Obtén tus estadísticas de GitHub generadas dinámicamente en tu README!</p>
 </p>
@@ -8,14 +8,14 @@
     <a href="https://github.com/CSTHenry/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/CSTHenry/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/CSTHenry/github-readme-stats">
+      <img src="https://codecov.io/gh/CSTHenry/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/CSTHenry/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/CSTHenry/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/CSTHenry/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSTHenry/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -54,7 +54,7 @@
     <a href="/docs/readme_nl.md">Nederlands</a>
   </p>
 </p>
-<p align="center">¿Te gusta este proyecto? ¡Por favor considera <a href="https://www.paypal.me/anuraghazra">donar</a> para ayudar a mejorarlo!
+<p align="center">¿Te gusta este proyecto? ¡Por favor considera <a href="https://www.paypal.me/CSTHenry">donar</a> para ayudar a mejorarlo!
 
 # Características
 
@@ -71,7 +71,7 @@ Copia y pega esto en el contenido de tu README.md y listo. ¡Simple!
 Cambia el valor `?username=` al nombre de tu usuario de GitHub.
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 _Nota: las clasificaciones se calculan basándose en las estadísticas del usuario. Ve [src/calculateRank.js](../src/calculateRank.js)._
@@ -83,7 +83,7 @@ Para ocultar alguna estadística específica, puedes utilizar el parámetro `?hi
 > Opciones: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=["contribs","prs"])
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=["contribs","prs"])
 ```
 
 ### Agregar contribuciones privadas al total de commits contados
@@ -95,7 +95,7 @@ _Nota: Si está desplegando este proyecto usted mismo, las contribuciones privad
 > Opciones: `&count_private=true`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&count_private=true)
 ```
 
 ### Mostrar íconos
@@ -103,7 +103,7 @@ _Nota: Si está desplegando este proyecto usted mismo, las contribuciones privad
 Para habilitar los íconos, puedes utilizar `show_icons=true` como parámetro, de esta manera:
 
 ```md
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true)
 ```
 
 ### Temas
@@ -113,14 +113,14 @@ Puedes personalizar el aspecto de la tarjeta sin realizar ninguna [personalizaci
 Utiliza el parámetro `?theme=THEME_NAME`, de esta manera:
 
 ```md
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&theme=radical)
 ```
 
 #### Todos los temas incorporados
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/CSTHenry/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 Puedes ver una vista previa de [todos los temas disponibles](../themes/README.md) o ver el [archivo de configuración](../themes/index.js) del tema y también **puedes contribuir con nuevos temas** si lo deseas :D
 
@@ -181,19 +181,19 @@ Yey! Ya no está limitado a 6 repositorios anclados.
 
 Copie y pegue este código en su archivo Léame y cambie los enlaces.
 
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpoint: `api/pin?username=CSTHenry&repo=github-readme-stats`
 
 ```md
-[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
 
 Utiliza la variable [show_owner](#customización) para incluir el nombre de usuario del propietario del repositorio.
 
-[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/CSTHenry/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats&show_owner=true)](https://github.com/CSTHenry/github-readme-stats)
 
 # Tarjeta de lenguajes principales
 
@@ -205,10 +205,10 @@ _NOTA: los lenguajes principales no indican mi nivel de habilidad o algo así, e
 
 Copie y pegue este código en su readme y cambie los enlaces.
 
-Endpoint: `api/top-langs?username=anuraghazra`
+Endpoint: `api/top-langs?username=CSTHenry`
 
 ```md
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Ocultar lenguajes individuales
@@ -216,7 +216,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 Puede usar el parámetro `? Hide = language1, language2` para ocultar lenguajes individuales.
 
 ```md
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&hide=javascript,html)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Diseño de tarjeta de lenguaje compacta
@@ -224,16 +224,16 @@ Puede usar el parámetro `? Hide = language1, language2` para ocultar lenguajes 
 Puede usar la opción `& layout = compact` para cambiar el diseño de la tarjeta.
 
 ```md
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 
 - Diseño compacto
 
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
 
 ---
 
@@ -241,37 +241,37 @@ Puede usar la opción `& layout = compact` para cambiar el diseño de la tarjeta
 
 - Por Defecto
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry)
 
 - Ocultar estadísticas específicas
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=contribs,issues)
 
 - Mostrando iconos
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=issues&show_icons=true)
 
 - Incluir todos los Commits
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&include_all_commits=true)
 
 - Temas
 
 Elija entre cualquiera de los [temas predeterminados](#themes)
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&theme=radical)
 
 - Personalizando tarjeta de estadísticas
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=CSTHenry&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Personalizar la tarjeta de repositorio
 
-![Customized Card](https://github-readme-stats.csthenry.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.csthenry.vercel.app/api/pin?username=CSTHenry&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Lenguajes Principales
 
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 
 ---
 
@@ -281,10 +281,10 @@ Por lo general, no podrá diseñar las imágenes una al lado de la otra. Para ha
 
 ```md
 <a href="https://github.com/CSTHenry/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/CSTHenry/convoychat">
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=convoychat" />
 </a>
 ```
 
@@ -328,7 +328,7 @@ No obstante, si estás utilizando este proyecto y estás feliz con él o simplem
 
 - Darme créditos cuando estés utilizando github-readme-stats en tu README, añadiendo un link a este repositorio :D
 - Dándole una estrella (starring) y compartiendo el proyecto :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Puedes hacerme una única donación a través de PayPal. Probablemente me compraré un ~~café~~ té. :tea:
+- [![paypal.me/CSTHenry](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/CSTHenry) - Puedes hacerme una única donación a través de PayPal. Probablemente me compraré un ~~café~~ té. :tea:
 
 ¡Gracias! :heart:
 

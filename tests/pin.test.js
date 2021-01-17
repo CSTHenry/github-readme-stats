@@ -7,7 +7,7 @@ const { renderError } = require("../src/common/utils");
 
 const data_repo = {
   repository: {
-    username: "anuraghazra",
+    username: "CSTHenry",
     name: "convoychat",
     stargazers: { totalCount: 38000 },
     description: "Help us take over the world! React + TS + GraphQL Chat App",
@@ -38,7 +38,7 @@ describe("Test /api/pin", () => {
   it("should test the request", async () => {
     const req = {
       query: {
-        username: "anuraghazra",
+        username: "CSTHenry",
         repo: "convoychat",
       },
     };
@@ -57,7 +57,7 @@ describe("Test /api/pin", () => {
   it("should get the query options", async () => {
     const req = {
       query: {
-        username: "anuraghazra",
+        username: "CSTHenry",
         repo: "convoychat",
         title_color: "fff",
         icon_color: "fff",
@@ -83,7 +83,7 @@ describe("Test /api/pin", () => {
   it("should render error card if user repo not found", async () => {
     const req = {
       query: {
-        username: "anuraghazra",
+        username: "CSTHenry",
         repo: "convoychat",
       },
     };
@@ -104,7 +104,7 @@ describe("Test /api/pin", () => {
   it("should render error card if org repo not found", async () => {
     const req = {
       query: {
-        username: "anuraghazra",
+        username: "CSTHenry",
         repo: "convoychat",
       },
     };

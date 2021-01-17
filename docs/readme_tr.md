@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/CSTHenry/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Readme'lerinizde dinamik olarak oluşturulmuş GitHub istatistikleri alın!</p>
 </p>
@@ -7,14 +7,14 @@
     <a href="https://github.com/CSTHenry/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/CSTHenry/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/CSTHenry/github-readme-stats">
+      <img src="https://codecov.io/gh/CSTHenry/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/CSTHenry/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/CSTHenry/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/CSTHenry/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSTHenry/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -55,7 +55,7 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-<p align="center">Projeyi sevdiniz mi? Daha da gelişmesi için lütfen <a href="https://www.paypal.me/anuraghazra">bağış</a> yapın!
+<p align="center">Projeyi sevdiniz mi? Daha da gelişmesi için lütfen <a href="https://www.paypal.me/CSTHenry">bağış</a> yapın!
 
 # Features
 
@@ -74,7 +74,7 @@ Alt kısımdaki kodu Kopyalayın ve yapıştırın. İşte bu kadar. Çok basit!
 `?username=` değerini kendi Github kullanıcı adınız ile değiştirin.
 
 ```md
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 ```
 _Not: Şu sıralamalar mevcut: S+ (en üst 1%), S (en üst 25%), A++ (en üst 45%), A+ (en üst 60%), and B+ (herkes).
 Buradaki değerler [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) ile hesaplanırken; commitler, katkılar, hatalar, yıldızlar, çekme istekleri, takipçiler ve sahip olunan depolar (repository) göz önünde bulundurulamaktadır.
@@ -124,7 +124,7 @@ Dahili olarak gelen temalarla, herhangi bir [manuel özelleştirme](#özelleşti
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Temaları" width="600px"/>
+<img src="https://res.cloudinary.com/CSTHenry/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Temaları" width="600px"/>
 
 Önizleme yapmak için şuralara göz atabilirsiniz: [tüm dahili temalar](./themes/README.md) veya [tema ayar dosyası](./themes/index.js) & **ayrıca siz de yeni bir tema oluşturarak katkı sağlayabilirsiniz** elbette isterseniz :D
 
@@ -242,7 +242,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `?exclude_repo=repo1,repo2` parametresini kullanarak istediğiniz repoları çıkartabilirsiniz.
 
 ```md
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&exclude_repo=github-readme-stats,CSTHenry.github.io)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Belirli Dilleri Çıkartın
@@ -301,19 +301,19 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry)
 
 - Belirli istatistikler gizli
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&include_all_commits=true)
 
 - Temalar
 
@@ -323,23 +323,23 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Gradient
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=CSTHenry&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=CSTHenry&locale=es)
 
 - Repo kartı düzenleyin
 
-![Customized Card](https://github-readme-stats.csthenry.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.csthenry.vercel.app/api/pin?username=CSTHenry&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - En çok kullanılan diller
 
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 
 - Wakatime kart
 
@@ -353,10 +353,10 @@ Genellikle resimleri yan yana düzenleyemezsiniz. Bunu yapmak için şu yaklaş�
 
 ```md
 <a href="https://github.com/CSTHenry/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/CSTHenry/convoychat">
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=convoychat" />
 </a>
 ```
 
@@ -403,7 +403,7 @@ Ayrıca, bu projeyi kullanıyor ve memnunsanız veya sadece bir şeyler yaratmay
 
 - Readme'nizde github-readme-stats'ı kullanırken bu projeye uygun bir link verebilirsiniz.
 - Projeye yıldız verebilir ve paylaşabilirsiniz :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - PayPal ile tek seferlik bağış yapabilirsiniz. Muhtemelen bir ~~kahve~~ ya da çay :tea: alacağım.
+- [![paypal.me/CSTHenry](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/CSTHenry) - PayPal ile tek seferlik bağış yapabilirsiniz. Muhtemelen bir ~~kahve~~ ya da çay :tea: alacağım.
 
 Teşekkürler! :heart:
 

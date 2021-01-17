@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/CSTHenry/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Krijg dynamisch gegenereerde GitHub statistieken op je readme's!</p>
 </p>
@@ -7,14 +7,14 @@
     <a href="https://github.com/CSTHenry/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/CSTHenry/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/CSTHenry/github-readme-stats">
+      <img src="https://codecov.io/gh/CSTHenry/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/CSTHenry/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/CSTHenry/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/CSTHenry/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSTHenry/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -53,7 +53,7 @@
     <a href="/docs/readme_nl.md">Nederlands</a>
   </p>
 </p>
-<p align="center">Bevalt het project? <a href="https://www.paypal.me/anuraghazra">Doneer</a> om het te verbeteren!
+<p align="center">Bevalt het project? <a href="https://www.paypal.me/CSTHenry">Doneer</a> om het te verbeteren!
 
 # Functionaliteiten
 
@@ -72,7 +72,7 @@ Kopieer en plak dit in je markdown content, zo simpel is het!
 Verander de waarde `?username=` naar jou gebruikersnaam.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 _Notitie: Beschikbare rangen zijn S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (iedereen).
@@ -87,7 +87,7 @@ Om specifieke statistieken te verbergen, kan je een `?hide=` query parameter toe
 > Opties: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=contribs,prs)
 ```
 
 ### Voeg privé contributies toe aan totale commits.
@@ -99,7 +99,7 @@ _Notitie: Als je dit project zelf deployt, zullen de privé contributies standaa
 > Opties: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&count_private=true)
 ```
 
 ### Laat icoontjes zien
@@ -107,7 +107,7 @@ _Notitie: Als je dit project zelf deployt, zullen de privé contributies standaa
 Om icoontjes te gebruiken kan je `show_icons=true` gebruiken in de query parameter, zoals hier:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true)
 ```
 
 ### Thema\'s
@@ -117,14 +117,14 @@ Met ingebouwde thema\'s kan je het uiterlijk van de kaart aanpassen zonder enige
 Gebruik `?theme=THEME_NAME` parameters zo :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&theme=radical)
 ```
 
 #### Alle ingeboude thema\'s :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Statestieken Thema's" width="600px"/>
+<img src="https://res.cloudinary.com/CSTHenry/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Statestieken Thema's" width="600px"/>
 
 Je kan een preview van alle [beschikbare thema\'s](../themes/README.md) bekijken, of zie het [thema configuratie bestand](../themes/index.js) en **je kan aan nieuwe thema\'s bijdragen** als je dat leuk lijkt :D
 
@@ -205,19 +205,19 @@ Joepie! Je bent niet langer aan 6 pins gelimiteerd!
 
 Kopieer en plak deze code in je readme en verander de links.
 
-Eindpunt: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Eindpunt: `api/pin?username=CSTHenry&repo=github-readme-stats`
 
 ```md
-[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Demo
 
-[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
 
 Gebruikt [show_owner](#customization) variabele om de repo\'s eigenaar toe te voegen
 
-[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/CSTHenry/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats&show_owner=true)](https://github.com/CSTHenry/github-readme-stats)
 
 # Top Programmeertalen Kaart
 
@@ -230,10 +230,10 @@ _Notitie: Top programmeertalen wijzen niet op een vaardigheids niveau, het is pu
 Kopieer en plak deze code in je readme en verander de links.
 
 
-Eindpunt: `api/top-langs?username=anuraghazra`
+Eindpunt: `api/top-langs?username=CSTHenry`
 
 ```md
-[![Top Talen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Talen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Verberg individueele repositories
@@ -241,7 +241,7 @@ Eindpunt: `api/top-langs?username=anuraghazra`
 Je kan de parameter `?exclude_repo=repo1,repo2` gebruiken om individueele repositories te verbergen.
 
 ```md
-[![Top Talen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Talen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&exclude_repo=github-readme-stats,CSTHenry.github.io)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Verberg individueele talen
@@ -249,7 +249,7 @@ Je kan de parameter `?exclude_repo=repo1,repo2` gebruiken om individueele reposi
 Je kan de `?hide=taal1,taal2` parameter gebruiken om individuele programmeer talen te verbergen.
 
 ```md
-[![Top Talen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Talen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&hide=javascript,html)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Laat meer programmeertalen zien
@@ -257,7 +257,7 @@ Je kan de `?hide=taal1,taal2` parameter gebruiken om individuele programmeer tal
 Je kan de `&langs_count=` optie gebruiken om de hoeveelheid talen op je kaart groter en kleiner te maken. Geldige waardes zijn tussen de 1 en 10 (inclusief), en de standaard waarde is 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&langs_count=8)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Compacte Talen Kaart opmaak
@@ -265,16 +265,16 @@ Je kan de `&langs_count=` optie gebruiken om de hoeveelheid talen op je kaart gr
 Je kan de `&layout=compact` optie gebruiken om het kaart ontwerp aan te passen.
 
 ```md
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Demo
 
-[![Top programmeertalen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top programmeertalen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 
 - Compacte opmaak
 
-[![Top programmeertalen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
+[![Top programmeertalen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
 
 # Wekelijkse Wakatime Statistieken
 
@@ -296,45 +296,45 @@ Verander de `?username=` waarde naar je [Wakatime](https://wakatime.com) gebruik
 
 - Standaard
 
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry)
 
 - Verberg specifieke statestieken
 
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=contribs,issues)
 
 - Weergeef icoontjes
 
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=issues&show_icons=true)
 
 - Voeg alle commits toe
 
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&include_all_commits=true)
 
 - Thema\'s
 
 Kies uit de [standaard thema\'s](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&theme=radical)
 
 - Kleurenverloop
 
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Pas statistieken kaart aan
 
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api/?username=CSTHenry&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Stel je kaart locale (taal) in
 
-![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.csthenry.vercel.app/api/?username=CSTHenry&locale=es)
 
 - Pas repo kaart aan.
 
-![Customized Card](https://github-readme-stats.csthenry.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.csthenry.vercel.app/api/pin?username=CSTHenry&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top programmeertalen
 
-[![Top Programmeertalen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Programmeertalen](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 
 - Wakatime kaart
 
@@ -348,10 +348,10 @@ Meestal kan je de afbeeldingen niet naast elkaar zetten, op deze manier wel:
 
 ```md
 <a href="https://github.com/CSTHenry/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/CSTHenry/convoychat">
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=convoychat" />
 </a>
 ```
 
@@ -394,7 +394,7 @@ Hoe dan ook, als je dit project gebruikt en er blij mee bent, of mij wilt aanmoe
 
 - Credits geven aan github-readme-stats op je readme, die terug naar het project linkt :D
 - Sterren en delen van het project :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Je kan eenmalig giften via PayPal, ik koop er waarschijnlijk ~~koffie~~ thee van. :tea:
+- [![paypal.me/CSTHenry](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/CSTHenry) - Je kan eenmalig giften via PayPal, ik koop er waarschijnlijk ~~koffie~~ thee van. :tea:
 
 Bedankt! :heart:
 

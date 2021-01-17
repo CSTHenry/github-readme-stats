@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/CSTHenry/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
 
@@ -19,7 +19,7 @@
 更改 `?username=` 的值为你的 GitHub 用户名。
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 _注: 等级基于用户的统计信息计算得出，详见 [src/calculateRank.js](../src/calculateRank.js)_
@@ -31,7 +31,7 @@ _注: 等级基于用户的统计信息计算得出，详见 [src/calculateRank.
 > 选项：`&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=contribs,prs)
 ```
 
 ### 将私人项目贡献添加到总提交计数中
@@ -43,7 +43,7 @@ _注：如果你是自己部署本项目，私人贡献将会默认被计数，�
 > 选项: `&count_private=true`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&count_private=true)
 ```
 
 ### 显示图标
@@ -51,7 +51,7 @@ _注：如果你是自己部署本项目，私人贡献将会默认被计数，�
 如果想要显示图标，你可以调用 `show_icons=true` 参数，像这样：
 
 ```md
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true)
 ```
 
 ### 主题
@@ -61,14 +61,14 @@ _注：如果你是自己部署本项目，私人贡献将会默认被计数，�
 通过调用 `?theme=THEME_NAME` 参数，像这样：
 
 ```md
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&theme=radical)
 ```
 
 #### 所有现有主题
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/CSTHenry/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :D
 
@@ -136,19 +136,19 @@ GitHub 更多置顶 允许你在使用 GitHub readme profile 时，在个人资�
 
 复制粘贴这段代码到你的 README 文件中，并更改链接。
 
-端点: `api/pin?username=anuraghazra&repo=github-readme-stats`
+端点: `api/pin?username=CSTHenry&repo=github-readme-stats`
 
 ```md
-[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Demo
 
-[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
 
 使用 [show_owner](#自定义) 变量将 Repo 所有者的用户名包含在内。
 
-[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/CSTHenry/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats&show_owner=true)](https://github.com/CSTHenry/github-readme-stats)
 
 # 热门语言卡片
 
@@ -160,10 +160,10 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 
 将此代码复制粘贴到您的 `README.md` 文件中，并修改链接。
 
-端点: `api/top-langs?username=anuraghazra`
+端点: `api/top-langs?username=CSTHenry`
 
 ```md
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### 隐藏指定语言
@@ -171,7 +171,7 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 可以使用 `?hide=language1,language2` 参数来隐藏指定的语言。
 
 ```md
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&hide=javascript,html)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### 紧凑的语言卡片布局
@@ -179,16 +179,16 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 你可以使用 `&layout=compact` 参数来改变卡片的样式。
 
 ```md
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 
 - 紧凑布局
 
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
 
 ---
 
@@ -196,41 +196,41 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 
 - 默认
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry)
 
 - 隐藏指定统计
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=contribs,issues)
 
 - 显示图标
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&hide=issues&show_icons=true)
 
 - 包含全部提交
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&include_all_commits=true)
 
 - 主题
 
 从[默认主题](#主题)中进行选择
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&show_icons=true&theme=radical)
 
 - 渐变
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - 自定义统计卡片
 
-![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=CSTHenry&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - 自定义 repo 卡片
 
-![Customized Card](https://github-readme-stats.csthenry.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.csthenry.vercel.app/api/pin?username=CSTHenry&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - 热门语言
 
-[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=CSTHenry)](https://github.com/CSTHenry/github-readme-stats)
 
 ---
 
@@ -240,10 +240,10 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 
 ```md
 <a href="https://github.com/CSTHenry/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/CSTHenry/convoychat">
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=CSTHenry&repo=convoychat" />
 </a>
 ```
 

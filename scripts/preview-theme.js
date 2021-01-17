@@ -33,7 +33,7 @@ async function run() {
     }
 
     let res = await octokit.pulls.get({
-      owner: "anuraghazra",
+      owner: "CSTHenry",
       repo: "github-readme-stats",
       pull_number: pullRequestId,
       mediaType: {
@@ -53,7 +53,7 @@ async function run() {
 
     if (!colors) {
       await octokit.issues.createComment({
-        owner: "anuraghazra",
+        owner: "CSTHenry",
         repo: "github-readme-stats",
         body: `
         \rTheme preview (bot)
@@ -74,10 +74,10 @@ async function run() {
     const iconColor = colors[1];
     const textColor = colors[2];
     const bgColor = colors[3];
-    const url = `https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&title_color=${titleColor}&icon_color=${iconColor}&text_color=${textColor}&bg_color=${bgColor}&show_icons=true`;
+    const url = `https://github-readme-stats.csthenry.vercel.app/api?username=CSTHenry&title_color=${titleColor}&icon_color=${iconColor}&text_color=${textColor}&bg_color=${bgColor}&show_icons=true`;
 
     await octokit.issues.createComment({
-      owner: "anuraghazra",
+      owner: "CSTHenry",
       repo: "github-readme-stats",
       body: `
       \rTheme preview (bot)
