@@ -4,16 +4,16 @@
  <p align="center">Readme'lerinizde dinamik olarak oluşturulmuş GitHub istatistikleri alın!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/CSTHenry/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/CSTHenry/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <a href="https://github.com/CSTHenry/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+    <a href="https://github.com/CSTHenry/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#demo">Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Hata İlet</a>
+    <a href="https://github.com/CSTHenry/github-readme-stats/issues/new/choose">Hata İlet</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Özellik Talep Et</a>
+    <a href="https://github.com/CSTHenry/github-readme-stats/issues/new/choose">Özellik Talep Et</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -74,7 +74,7 @@ Alt kısımdaki kodu Kopyalayın ve yapıştırın. İşte bu kadar. Çok basit!
 `?username=` değerini kendi Github kullanıcı adınız ile değiştirin.
 
 ```md
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
 ```
 _Not: Şu sıralamalar mevcut: S+ (en üst 1%), S (en üst 25%), A++ (en üst 45%), A+ (en üst 60%), and B+ (herkes).
 Buradaki değerler [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) ile hesaplanırken; commitler, katkılar, hatalar, yıldızlar, çekme istekleri, takipçiler ve sahip olunan depolar (repository) göz önünde bulundurulamaktadır.
@@ -87,7 +87,7 @@ Bazı belirli istatistikleri gizlemek için `?hide=` paremetresi içerisinde vir
 > Örnek: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&hide=contribs,prs)
+![mustafacagri's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=mustafacagri&hide=contribs,prs)
 ```
 
 ### Özel Katkı Sayısını Toplam Commit Sayısına Ekleme
@@ -99,7 +99,7 @@ _Not: Eğer projeyi kendiniz yayınlayıp kullanacaksanız, özel depolardaki ge
 > Örnek: `&count_private=true`
 
 ```md
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&count_private=true)
+![mustafacagri's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=mustafacagri&count_private=true)
 ```
 
 ### İkonları Göstermek
@@ -107,7 +107,7 @@ _Not: Eğer projeyi kendiniz yayınlayıp kullanacaksanız, özel depolardaki ge
 Eğer ikonları göstermek istiyorsanız, `show_icons=true` parametresini göndermeniz gerekmektedir. Örnek olarak:
 
 ```md
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true)
+![mustafacagri's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=mustafacagri&show_icons=true)
 ```
 
 ### Temalar
@@ -117,7 +117,7 @@ Dahili olarak gelen temalarla, herhangi bir [manuel özelleştirme](#özelleşti
 `?theme=THEME_NAME` parametresini kullanabilirsiniz:
 
 ```md
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![mustafacagri's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 ```
 
 #### Tüm Dahili Temalar :-
@@ -210,16 +210,16 @@ Alttaki kodu kopyalayıp readme dosyanıza urlleri değiştirerek yapıştırın
 Endpoint: `api/pin?username=mustafacagri&repo=github-readme-stats`
 
 ```md
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Demo
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/CSTHenry/github-readme-stats)
 
 [show_owner](#özelleştirmeler) ile reponun sahibini gösterebilirsiniz.
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.csthenry.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats&show_owner=true)](https://github.com/CSTHenry/github-readme-stats)
 
 # En Çok Kullanılan Diller
 
@@ -234,7 +234,7 @@ Alttaki kodu kopyalayıp readme dosyanıza urlleri değiştirerek yapıştırın
 Endpoint: `api/top-langs?username=mustafacagri`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Belirli Repoları Çıkartın
@@ -242,7 +242,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `?exclude_repo=repo1,repo2` parametresini kullanarak istediğiniz repoları çıkartabilirsiniz.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Belirli Dilleri Çıkartın
@@ -250,7 +250,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `?hide=language1,language2` parametresini kullanarak istediğiniz dilleri çıkartabilirsiniz.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=mustafacagri&hide=javascript,html)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Daha Fazla Dil Gösterin
@@ -258,7 +258,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `&langs_count=` parametresini kullanarak kartınızda gösterilen dil sayısını azaltabilir ya da artırabilirsiniz. Varsayılan değeri 5, kullanılabilir sayı aralığı ise 1-10'dur.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=mustafacagri&langs_count=8)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Kompakt Dil Kartı Düzeni
@@ -266,34 +266,34 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `&layout=compact` parametresiyle kart tasarımınızı değiştirebilirsiniz.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/CSTHenry/github-readme-stats)
 
 - Kompakt Düzen / Layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
 
 # Wakatime Haftalık İstatistikler
 
 `?username=` değerini [Wakatime](https://wakatime.com)'daki kullanıcı adınızla değiştirin.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.csthenry.vercel.app/api/wakatime?username=willianrod)](https://github.com/CSTHenry/github-readme-stats)
 ```
 
 ### Demo
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.csthenry.vercel.app/api/wakatime?username=willianrod)](https://github.com/CSTHenry/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.csthenry.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/CSTHenry/github-readme-stats)
 
 - Kompakt Düzen
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.csthenry.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/CSTHenry/github-readme-stats)
 
 ---
 
@@ -301,49 +301,49 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra)
 
 - Belirli istatistikler gizli
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&include_all_commits=true)
 
 - Temalar
 
 [default themes](#themes) adresinden istediğiniz temayı seçin.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's github stats](https://github-readme-stats.csthenry.vercel.app/api/?username=anuraghazra&locale=es)
 
 - Repo kartı düzenleyin
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.csthenry.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - En çok kullanılan diller
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.csthenry.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CSTHenry/github-readme-stats)
 
 - Wakatime kart
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.csthenry.vercel.app/api/wakatime?username=willianrod)](https://github.com/CSTHenry/github-readme-stats)
 
 ---
 
@@ -352,11 +352,11 @@ Endpoint: `api/top-langs?username=mustafacagri`
 Genellikle resimleri yan yana düzenleyemezsiniz. Bunu yapmak için şu yaklaşımı kullanabilirsiniz:
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/CSTHenry/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.csthenry.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 ```
 
@@ -365,12 +365,12 @@ Genellikle resimleri yan yana düzenleyemezsiniz. Bunu yapmak için şu yaklaş�
 
 #### [@codeSTACKr'ın Yayınladığı Video Eğitimine Göz Atın](https://youtu.be/n6d4KHSKqGk?t=107)
 
-Github API saatte sadece 5.000 isteğe izin verdiği için `https://github-readme-stats.vercel.app/api` adresindeki API'm bu limite muhtemelen takılmış olabilir. Eğer projeyi kendi Vercel sunucunuzda yayınlarsanız, böyle bir sorun yaşamayabilirsiniz. Deploy butonuna tıkla ve deploy başlasın!
+Github API saatte sadece 5.000 isteğe izin verdiği için `https://github-readme-stats.csthenry.vercel.app/api` adresindeki API'm bu limite muhtemelen takılmış olabilir. Eğer projeyi kendi Vercel sunucunuzda yayınlarsanız, böyle bir sorun yaşamayabilirsiniz. Deploy butonuna tıkla ve deploy başlasın!
 
 
-NOT: [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) geliştirmesi sonrasında anlamadığımız bir şekilde 5.000 istek limitine takılmıyoruz :)
+NOT: [#58](https://github.com/CSTHenry/github-readme-stats/pull/58) geliştirmesi sonrasında anlamadığımız bir şekilde 5.000 istek limitine takılmıyoruz :)
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/CSTHenry/github-readme-stats)
 
 <details>
  <summary><strong> Vercel Kurulum Rehberi  🔨 </strong></summary>
@@ -389,7 +389,7 @@ NOT: [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) geliştir
    ![](https://files.catbox.moe/pqub9q.png)
 1. Root'u seçin ve her şeyi olduğu gibi bırakın, [burada](https://github.com/settings/tokens/new) kolayca oluşturabileceğiniz kişisel bir erişim belirteci (personal access token) (PAT) içerecek olan PAT_1 adlı ortam değişkeninizi (gösterildiği gibi) ekleyin. (istediğiniz bir isim verin, çok da mühim değil açıkçası)
    ![](https://files.catbox.moe/0ez4g7.png)
-1. Deploy'u tıklayın ve hazırsınız. 
+1. Deploy'u tıklayın ve hazırsınız.
 Click deploy, and you're good to go. API'ı kullanmak için alanlarınızı (domainlerinizi) görün!
 
 </details>
@@ -403,7 +403,7 @@ Ayrıca, bu projeyi kullanıyor ve memnunsanız veya sadece bir şeyler yaratmay
 
 - Readme'nizde github-readme-stats'ı kullanırken bu projeye uygun bir link verebilirsiniz.
 - Projeye yıldız verebilir ve paylaşabilirsiniz :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - PayPal ile tek seferlik bağış yapabilirsiniz. Muhtemelen bir ~~kahve~~ ya da çay :tea: alacağım. 
+- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - PayPal ile tek seferlik bağış yapabilirsiniz. Muhtemelen bir ~~kahve~~ ya da çay :tea: alacağım.
 
 Teşekkürler! :heart:
 
