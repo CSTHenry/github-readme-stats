@@ -274,3 +274,5 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 1. 点击 deploy，这就完成了，查看你的域名就可使用 API 了！
 
 </details>
+
+Powered by [@anuraghazra](https://github.com/anuraghazra/github-readme-stats)
